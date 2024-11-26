@@ -22,5 +22,6 @@ Bem-vindo ao repositório deste projeto! 🚀 Este é um projeto onde utilizei *
 - **HTML5**: Para estruturar a aplicação.
 - **CSS3**: Para estilização e design responsivo.
 - **JavaScript (ES6+)**: Para lógica e interatividade.
+  
 
-<video src="" controls width="600"></video>
+<img src="https://github.com/Kauafrancca/Projeto-Array/blob/main/img/fotodecapa.png?raw=true"></img>
