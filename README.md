@@ -1,4 +1,4 @@
-# 📚 Meu Projeto com HTML, CSS e JavaScript
+# 📚 Projeto Array
 
 Bem-vindo ao repositório deste projeto! 🚀 Este é um projeto onde utilizei **HTML** e **CSS** para estruturar e estilizar a aplicação, e **JavaScript** para adicionar funcionalidades dinâmicas. Durante o desenvolvimento, apliquei métodos poderosos como `map`, `reduce`, `filter` e `forEach`.
 
